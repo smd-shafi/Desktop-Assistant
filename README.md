@@ -21,6 +21,3 @@ Ensure you have the following libraries installed:
 ```sh
 pip install pyttsx3 speech_recognition wikipedia webbrowser pywhatkit pyautogui psutil requests python-dateutil
 
-## Requirements
-
-Ensure you have the following libraries installed:
