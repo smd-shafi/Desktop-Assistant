@@ -1,0 +1,18 @@
+pyttsx3
+speechrecognition
+pywhatkit
+pyautogui
+psutil
+requests
+wikipedia
+python-dateutil
+
+Explanation:
+pyttsx3 is the text-to-speech library.
+speechrecognition is the speech-to-text library (note that it's written as speechrecognition on PyPI).
+pywhatkit is for sending messages through WhatsApp, performing web searches, etc.
+pyautogui is for automation (mouse/keyboard control).
+psutil is for system and process monitoring.
+requests is for making HTTP requests.
+wikipedia is for retrieving Wikipedia data.
+python-dateutil is for extended datetime functionality, like parsing and date calculations.
